@@ -19,7 +19,8 @@
     "graphql-tools": "^2.20.2",
     "helmet": "^3.11.0",
     "lodash": "^4.17.5",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
